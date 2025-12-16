@@ -1,0 +1,94 @@
+body{
+
+    background-color:black;
+    color:rgb(44, 232, 232);
+}
+ 
+h1{
+    font-size:36px;
+    color:rgb(123, 155, 81);
+    text-align:center;
+}
+h2{
+    color:rgb(209, 116, 116);
+    text-decoration:underline;
+    font-style:italic;
+    font-weight:bold;
+}
+
+p{
+    font-size:25px;
+}
+
+#pinkparagraph{
+    color: pink;
+}
+
+.pretty{
+    text-decoration:underline;
+}
+
+.common{
+background-color: rgb(137, 71, 199);
+border: 2px solid white;
+position: absolute;
+
+}
+
+.left {
+
+    top: 115px;
+    left: 15px;
+    width:100px;
+    bottom: 40px;
+
+}
+
+.main{
+    top: 115px;
+    left: 130px;
+    right: 140px;
+    bottom: 40px;
+}
+
+.right {
+    top: 115px;
+    right: 25px;
+    width: 100px;
+    height: 100px;
+
+}
+
+.footer {
+
+    bottom: 10px;
+    height: 100px;
+    left: 15px;
+    right: 25px;
+    position: fixed;
+    background-color: rgb(137, 71, 199);
+    border: 2px solid white;
+}
+
+.header{
+    z-index: 10;   
+
+}
+
+.purpletext{
+
+color: purple;
+}
+
+.redtext {
+    color: red;
+}
+
+
+
+
+
+
+
+
+
